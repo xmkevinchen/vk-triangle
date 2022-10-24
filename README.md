@@ -7,7 +7,7 @@ This is the project which draws a triangle with Vulkan engine on macOS
 -   Install Xcode
 -   Install the latest [Vulkan SDK](https://vulkan.lunarg.com/sdk/home)
     -   Select the **System Global Files** to save some extra settings ![vk-sdk-installation](vk-sdk-installation.png)
-    - GLM and SDL2 could be install via [Homebrew](https://brew.sh/)
+    - GLM and SDL2 could be installed via [Homebrew](https://brew.sh/)
     -   This project was set up with SDK `1.3.224.1`
 -   Install `glfw` via [Homebrew](https://brew.sh/) `brew install glfw`
     - Assume Homebrew is installed in the default path, otherwise you need to set up proper in Xcode
