@@ -156,10 +156,14 @@
 			inputFileListPaths = (
 			);
 			inputPaths = (
+				"$(SRCROOT)/vk-triangle/srcs/shaders/vert.glsl",
+				"$(SRCROOT)/vk-triangle/srcs/shaders/frag.glsl",
 			);
 			outputFileListPaths = (
 			);
 			outputPaths = (
+				"$(SRCROOT)/vk-triangle/srcs/shaders/vert.spv",
+				"$(SRCROOT)/vk-triangle/srcs/shaders/frag.spv",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
